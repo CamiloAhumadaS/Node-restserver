@@ -1,8 +1,5 @@
-## RESTSERVE
-## Consume un servicio 
-
-
-Recuerda instalar los modulos de node
+## RESTSERVER
+Comprueba los metodos POST - GET - PUT - DELETE
 
 
 ....
